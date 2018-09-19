@@ -1,0 +1,42 @@
+.navbar {
+	background: #ff6600;
+	border-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.etiqueta-header {
+	color: #fff;
+}
+
+.zeldas {
+	margin-top: 
+}
+
+.container-header {
+	padding: 0px;
+}
+
+.direccion {
+	position:relative;
+    top:50px ;
+	left: 800px;
+	font-size:30px ;
+}
+
+.direccion2 {
+	position:relative;
+    top:50px ;
+	left: 890px;
+	font-size:30px ;
+}
+
+.direccion3 {
+	position:relative;
+    top:50px ;
+	left: 1000px;
+	font-size:30px ;
+}
+
+hr {
+	border: 1px solid #ff6600;
+}
